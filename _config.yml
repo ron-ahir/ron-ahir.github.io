@@ -1,0 +1,8 @@
+#basic options
+title: Ronak's Portfolio
+email: ronak.ahir@gmail.com
+description: My data science and machine learning work
+github_username: ron-ahir
+
+markdown: kramdown
+theme: minima
