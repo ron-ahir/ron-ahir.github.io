@@ -9,6 +9,7 @@ tags:
   - python
   - web framework
   - microframework
+link:https://jekyllrb.com/
 ---
 
 This is my first web app project. I came across Flask couple of weeks back. I wondered what use an html like website building is to ML or DS. Pardon my ignorance or rather unawareness as I'm new and learning how different technologies work together.
@@ -24,10 +25,15 @@ Coming to project. This is simplest form of 'Hello World' like Flask web app (I 
 - Web forms validation
 - Connecting to database
 
-When the app is run the website is accessed on '''http://127.0.0.1:5000''' and it displayed Hello World there.
+When the app is run the website is accessed  `http://127.0.0.1:5000` it displays 'Hello World'.
 
-If you accessed '''http://127.0.0.1:5000/hello/<yourname>/''' it would display a greeting with your name and show a random quote from my choicest quotes.
+If you accessed the following:
+`http://127.0.0.1:5000/hello/<yourname>/` - displays a greeting with your name and show a random quote from my choicest quotes ;) .
 
-And if you tried '''http://127.0.0.1:5000/addquote/''' then it would display a form that allows to enter A quote and it's author of your choice.
+`http://127.0.0.1:5000/addquote/` - displays a form that allows to enter A quote and it's author of your choice.
 
-I also learned to create the app as a package with '''__init__.py''' and '''_config.py'''
+`http://127.0.0.1:5000/quotes/` - displays all the quotes in the database.
+
+I also learned to create the app as a package with `_config.py` and `__init__.py`.
+
+This has been a great learning project. To create this page I had to learn about [Jekyll](#) too. As I learn more I'll publish more content here and on the github repositories.
