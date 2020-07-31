@@ -1,16 +1,13 @@
 ---
 title: "Flask Web App"
-date: 2020-04-18T15:34:30-04:00
-excerpt_separator: "<!--more-->"
-
 categories:
   - Project
-  
 tags:
   - python
+  - flask
   - web framework
   - microframework
-link:https://jekyllrb.com/
+link: https://jekyllrb.com/
 ---
 
 This is my first web app project. I came across Flask couple of weeks back. I wondered what use an html like website building is to ML or DS. Pardon my ignorance or rather unawareness as I'm new and learning how different technologies work together.
