@@ -34,4 +34,4 @@ If you accessed the following:
 
 I also learned to create the app as a package with `_config.py` and `__init__.py`.
 
-This has been a great learning project. To create this page I had to learn about [Jekyll](#) too. As I learn more I'll publish more content here and on the github repositories.
+This has been a great learning project. To create this page I had to learn about [Jekyll]() too. As I learn more I'll publish more content here and on the github repositories.
