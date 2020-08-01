@@ -1,7 +1,7 @@
 ---
 title: "Flask Web App"
 categories:
-  - Project
+  - Projects
 tags:
   - python
   - flask
@@ -9,9 +9,9 @@ tags:
   - microframework
 ---
 
-This is my first web app project. I came across Flask couple of weeks back. I wondered what use an html like website building is to ML or DS. Pardon my ignorance or rather unawareness as I'm new and learning how different technologies work together.
+This is my first web app project. I came across Flask couple of weeks back. I wondered what use, an html like website building, is to ML or DS. Pardon my ignorance or rather unawareness as I'm new and learning how these technologies work together.
 
-Jupyter notebooks is enough for most of my ML practice exercises but in doing this project I ended up trying about IDEs, virtual environments, github and github pages (hey that's how you see me here!) which made all the learning challenging yet exciting. I feel like I know so much more now.
+Jupyter notebooks is enough for most of my ML practice exercises but in doing this project I ended up trying different IDEs (three to be precise), virtual environments, github and github pages (that's how you see me here!) which made all the learning challenging yet exciting. I feel like I know so much more now.
 
 Coming to project. This is simplest form of 'Hello World' like Flask web app (I admit I'm tempted to create a full blown blog). But I'm sure I'll create something more functional and more ML oriented in future. For now let me capture what I have learned so far.
 
@@ -34,4 +34,4 @@ If you accessed the following:
 
 I also learned to create the app as a package with `_config.py` and `__init__.py`.
 
-This has been a great learning project. To create this page I had to learn about [Jekyll](https://jekyllrb.com/) too. As I learn more I'll publish more content here and on the [github repositories](https://github.com/ron-ahir).
+This has been a great learning project. To create this page I had to learn about [Jekyll](https://jekyllrb.com/) markdown too. As I learn more I'll publish more content here and on the [github repositories](https://github.com/ron-ahir).
