@@ -9,9 +9,9 @@ tags:
   - microframework
 ---
 
-This is my first web app project. I came across Flask couple of weeks back. I wondered what use, an html like website building, is to ML or DS. Pardon my ignorance or rather unawareness as I'm new and learning how these technologies work together.
+This is my first web app project. I came across Flask couple of weeks back. I wondered what use an html like website building is to ML or DS. Pardon my ignorance or rather unawareness as I'm new and learning how these frameworks work.
 
-Coming to project. This is simplest form of 'Hello World' like Flask web app (I admit I'm tempted to create a full blown blog). But I'm sure I'll create something more functional and more ML oriented in future. For now let me capture what I have learned so far.
+Coming to project - This is simplest form of 'Hello World' like Flask web app (I admit I'm tempted to create a full blown blog). But I'm sure I'll create something more functional and more ML oriented in future. For now let me capture what I have learned so far.
 
 - Handling web requests
 - Templates
@@ -20,7 +20,7 @@ Coming to project. This is simplest form of 'Hello World' like Flask web app (I 
 - Web forms validation
 - Connecting to database
 
-When the app is run the website is accessed  `http://127.0.0.1:5000` it displays 'Hello World'.
+When the app is run the website is accessed at `http://127.0.0.1:5000` and it displays 'Hello World'.
 
 If you accessed the following:
 
